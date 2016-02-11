@@ -32,3 +32,7 @@ files structure:
 
 Contributing: 
 <p>fork it!  and play around and add features</p>
+
+Preview: 
+
+![alt tag](img/app.jpg)
