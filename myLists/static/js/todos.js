@@ -1,3 +1,4 @@
+
 function get_todos() {
     var todos = new Array;
     var todos_str = localStorage.getItem('todo');
@@ -29,6 +30,7 @@ function remove() {
  
     return false;
 }
+
  
 function show() {
     var todos = get_todos();
